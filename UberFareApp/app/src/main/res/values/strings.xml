@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UberFareApp</string>
+    <string name="txtAppTitle">Uber Fare App</string>
+    <string name="txtMilesAmtMain">How many miles will you be travelling?</string>
+    <string name="txtZero">0</string>
+    <string name="txtAutoPrefMain">What is your preference for vehicle?</string>
+    <string name="txtSmartCar">smart car</string>
+    <string name="txtClassicSedan">classic sedan</string>
+    <string name="txtMinivan">minivan</string>
+    <string name="txtEstimateCost">Estimate Uber Cost</string>
+    <string name="txtCostDesc">Welcome to the Uber Fare App! All Uber rides have an initial fee of $3.00. For ever mile you travel, an additional $3.25 is added to your bill. If you choose to ride in a smart car, there will be a one-time fee of $2, and for a minivan, there will be a one-time fee of $5.</string>
+    <string name="txtSumDesc">Here is a summary of the selections you made!</string>
+    <string name="btnRequestRide">Request Ride Now</string>
+    <string name="btnBack">Go Back to Beginning</string>
+    <string name="txtRideReqDone">Your Uber ride has been requested!</string>
+</resources>
