@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Maverick City Music</item>
+        <item>Elevation Worship</item>
+        <item>Gable Price and Friends</item>
+        <item>The Afters</item>
+        <item>Switchfoot</item>
+        <item>Flyleaf</item>
+        <item>Superchick</item>
+        <item>BarlowGirl</item>
+        <item>DC Talk</item>
+        <item>Newsboys</item>
+        <item>Disciple</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>Maverick City Music is an American contemporary worship music collective founded by Tony Brown and Jonathan Jay originating from Atlanta.</item>
+        <item>Elevation Worship is a contemporary worship music collective from Elevation Church in Charlotte, North Carolina.</item>
+        <item>Gable Price and Friends released their debut EP, The Redding EP, in 2018.</item>
+        <item>The Afters is an American Christian pop rock band founded by Joshua Havens and Matt Fuqua.</item>
+        <item>Switchfoot is an American rock band from San Diego, California.</item>
+        <item>Flyleaf is an American rock band formed in Belton, Texas, in 2002.</item>
+        <item>Superchick made their debut in 1999 at an Audio Adrenaline concert in front of an audience of 5,000.</item>
+        <item>BarlowGirl was an American Christian rock and CCM all-female band from Elgin, Illinois.</item>
+        <item>DC Talk (stylized as dc Talk) is a Christian rap and rock trio.</item>
+        <item>Newsboys (sometimes stylised as newsboys) are a Christian rock band founded in 1985 in Mooloolaba, Queensland, Australia, by Peter Furler and George Perdikis.</item>
+        <item>Disciple is an American Christian rock band from Knoxville, Tennessee, formed in 1992.</item>
+
+
+
+    </string-array>
+</resources>
